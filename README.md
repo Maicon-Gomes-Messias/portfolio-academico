@@ -111,6 +111,27 @@ Rotinas de processamento digital de imagens em Python (`pai2.py`).
 
 Scripts em MATLAB de modelagem e análise de sistemas dinâmicos e controle.
 
+## Créditos
+
+Parte destes trabalhos foi desenvolvida **em grupo**. Onde há coautoria, ela fica
+registrada no próprio projeto:
+
+- **`fpga-vhdl`** — projeto em equipe. A licença original do repositório foi
+  preservada em [`fpga-vhdl/LICENSE`](fpga-vhdl/LICENSE) e credita a coautoria.
+
+Alguns projetos foram publicados apenas com o código-fonte, sem os metadados de Git
+dos repositórios originais.
+
+### Sobre dados de terceiros
+
+O script [`banco-de-dados-sql/POPULATE_DATABASE_SCRIPT.sql`](banco-de-dados-sql/POPULATE_DATABASE_SCRIPT.sql)
+fazia parte de um trabalho em grupo e trazia, nos registros de exemplo, nomes, e-mails
+e telefones de colegas de equipe. Esses valores foram **substituídos por dados
+fictícios** antes da publicação. **Nenhum dado pessoal de terceiros é publicado aqui.**
+
+Se você é coautor de algum destes trabalhos e prefere que ele seja creditado de outra
+forma — ou removido —, é só abrir uma issue ou entrar em contato.
+
 ## Licença
 
 Distribuído sob a licença **MIT** — veja [`LICENSE`](LICENSE). Em resumo: você pode
