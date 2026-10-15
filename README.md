@@ -35,6 +35,7 @@ PDFs de professores) e dos dados pessoais (notas e feedback no Canvas).
 | [`processamento-imagens`](processamento-imagens) | Processamento e Análise de Imagens (2024/2) | Python | Rotinas de processamento digital de imagens |
 | [`sistemas-dinamicos-matlab`](sistemas-dinamicos-matlab) | Sistemas Dinâmicos e Controle (2024) | MATLAB | Scripts de modelagem e análise de sistemas de controle |
 | [`aed-ii`](aed-ii) | Algoritmos e Estruturas de Dados II (2020/2 e 2021/1) | Java, C | Práticas em Java, ordenação sobre 11 MB de dados do Airbnb, exercícios em C e trabalhos teóricos |
+| [`aed-iii`](aed-iii) | Algoritmos e Estruturas de Dados III (2022/1) | Java | Contas bancárias com **AES** e **LZW**, CRUD de futebol e artigo sobre compressão de dados |
 
 ## Sobre cada projeto
 
@@ -120,6 +121,14 @@ trabalho de **ordenação sobre 11 MB de dados do Airbnb**, os **exercícios em 
 (palíndromo e cifra de César) e os **trabalhos teóricos** da disciplina nos semestres
 2020/2 e 2021/1 — recursividade, somatórios, complexidade, estruturas lineares, árvores e
 tabelas hash.
+
+### aed-iii
+
+O tema de Algoritmos e Estruturas de Dados III é **arquivos**. O projeto maior é um
+sistema de contas bancárias com CRUD sobre registros de tamanho fixo, índice por chave,
+**criptografia AES** e **compressão LZW** — tudo implementado do zero. Vem junto um CRUD
+de times de futebol sobre o mesmo motor e o **artigo** da disciplina, comparando
+compressão de dados com e sem perda.
 
 ## Créditos
 
