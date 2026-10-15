@@ -1,0 +1,22 @@
+# Dependências
+node_modules/
+
+# Ambiente (NUNCA versionar: contém credenciais)
+.env
+.env.local
+*.env
+
+# Build e binários
+bin/
+target/
+dist/
+build/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp

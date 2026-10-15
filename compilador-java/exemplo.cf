@@ -1,0 +1,15 @@
+$ Teste 4: usando tipo Logico na condição
+Inteiro x <- 5;
+Inteiro y <- 8;
+Logico ehMaior <- Mentira;
+
+ehMaior <- x > y;
+
+Se (ehMaior)
+{
+    Imprimir("x é maior que y");
+}
+Senão
+{
+    Imprimir("x não é maior que y");
+}
