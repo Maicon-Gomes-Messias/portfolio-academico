@@ -1,5 +1,15 @@
 # Portfólio acadêmico — Maicon Gomes Messias
 
+[![Licença: MIT](https://img.shields.io/badge/Licen%C3%A7a-MIT-0F5C55?style=flat-square)](LICENSE)
+[![Java](https://img.shields.io/badge/Java-0F5C55?style=flat-square&logo=openjdk&logoColor=white)](compilador-java)
+[![Node.js](https://img.shields.io/badge/Node.js-0F5C55?style=flat-square&logo=nodedotjs&logoColor=white)](api-rest-node)
+[![Flutter](https://img.shields.io/badge/Flutter-0F5C55?style=flat-square&logo=flutter&logoColor=white)](app-flutter)
+[![VHDL](https://img.shields.io/badge/VHDL-0F5C55?style=flat-square)](fpga-vhdl)
+[![SQL](https://img.shields.io/badge/SQL-0F5C55?style=flat-square)](banco-de-dados-sql)
+[![Python](https://img.shields.io/badge/Python-0F5C55?style=flat-square&logo=python&logoColor=white)](inteligencia-artificial)
+
+[![Site](https://img.shields.io/badge/site-maicon--gomes--messias.github.io-C97A20?style=flat-square)](https://maicon-gomes-messias.github.io/)
+
 Trabalhos de programação que desenvolvi ao longo do **Bacharelado em Engenharia de
 Computação (PUC Minas)**, reunidos a partir das submissões da plataforma Canvas.
 
@@ -103,5 +113,13 @@ Scripts em MATLAB de modelagem e análise de sistemas dinâmicos e controle.
 
 ## Licença
 
-Código de autoria própria, disponibilizado para consulta e estudo. Trabalhos
-acadêmicos podem ter sido desenvolvidos em grupo — veja a observação no topo.
+Distribuído sob a licença **MIT** — veja [`LICENSE`](LICENSE). Em resumo: você pode
+usar, copiar e adaptar livremente, desde que mantidos os créditos.
+
+Como são trabalhos acadêmicos, **alguns tiveram autoria compartilhada** e trazem a
+própria licença e atribuição dentro da pasta. É o caso de
+[`fpga-vhdl/LICENSE`](fpga-vhdl/LICENSE), que credita a coautoria do projeto em VHDL.
+Nesses casos, a licença do projeto prevalece sobre a raiz.
+
+Se algum conteúdo aqui for de sua autoria e você preferir que seja removido ou
+creditado de outra forma, é só abrir uma issue ou entrar em contato.
