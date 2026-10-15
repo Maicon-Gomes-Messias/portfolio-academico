@@ -34,6 +34,7 @@ PDFs de professores) e dos dados pessoais (notas e feedback no Canvas).
 | [`inteligencia-artificial`](inteligencia-artificial) | Inteligência Artificial (2023/2) | Python, Jupyter | **Algoritmo genético** implementado do zero |
 | [`processamento-imagens`](processamento-imagens) | Processamento e Análise de Imagens (2024/2) | Python | Rotinas de processamento digital de imagens |
 | [`sistemas-dinamicos-matlab`](sistemas-dinamicos-matlab) | Sistemas Dinâmicos e Controle (2024) | MATLAB | Scripts de modelagem e análise de sistemas de controle |
+| [`aed-ii`](aed-ii) | Algoritmos e Estruturas de Dados II (2020/2 e 2021/1) | Java | Práticas em Java e trabalhos teóricos da disciplina |
 
 ## Sobre cada projeto
 
@@ -110,6 +111,20 @@ Rotinas de processamento digital de imagens em Python (`pai2.py`).
 ### sistemas-dinamicos-matlab
 
 Scripts em MATLAB de modelagem e análise de sistemas dinâmicos e controle.
+
+### aed-ii
+
+Práticas em **Java** feitas em Algoritmos e Estruturas de Dados II: exercícios de
+introdução à linguagem e manipulação de vetores e matrizes. Junto vão os **trabalhos
+teóricos** da disciplina nos semestres 2020/2 e 2021/1 — recursividade, somatórios,
+complexidade, estruturas lineares, árvores e tabelas hash.
+
+Dois trabalhos maiores da mesma disciplina ficaram em repositórios próprios, para não
+duplicar arquivos grandes:
+[aed-ii-airbnb](https://github.com/Maicon-Gomes-Messias/aed-ii-airbnb) (ordenação sobre
+11 MB de dados) e
+[aed-ii-exercicios-c](https://github.com/Maicon-Gomes-Messias/aed-ii-exercicios-c)
+(exercícios em C).
 
 ## Créditos
 
