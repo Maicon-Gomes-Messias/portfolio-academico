@@ -3,6 +3,15 @@
 Trabalhos da disciplina de **Algoritmos e Estruturas de Dados II** (Engenharia de
 Computação, PUC Minas), nos semestres **2020/2** e **2021/1**.
 
+## O que tem aqui
+
+| Pasta | O que é |
+| --- | --- |
+| **`pratica-java/`** | Exercícios práticos em Java: introdução à linguagem e vetores/matrizes |
+| **`airbnb/`** | Trabalho com uma base de 11 MB do Airbnb e comparação de algoritmos de ordenação |
+| **`exercicios-c/`** | Exercícios em C: palíndromo e cifra de César |
+| **`trabalhos-teoricos/`** | Listas e trabalhos escritos, por semestre |
+
 ## Prática em Java
 
 - **`pratica-java/introducao-a-linguagem-java/`** — três exercícios de introdução à
@@ -13,10 +22,20 @@ Computação, PUC Minas), nos semestres **2020/2** e **2021/1**.
   valor (`App.java`).
 
 ```bash
-# exemplo: rodar o exercício da matriz
 javac -d bin pratica-java/vetores-e-matrizes/*.java
 java -cp bin App
 ```
+
+## Airbnb
+
+Leitura de uma base real de acomodações (11 MB), modelagem dos registros e comparação de
+seis algoritmos de ordenação — bolha, inserção, seleção, heapsort, quicksort e mergesort.
+Veja o [README do projeto](airbnb/README.md) para os detalhes de execução.
+
+## Exercícios em C
+
+Verificação de palíndromo e cifra de César, em C puro —
+[README](exercicios-c/README.md).
 
 ## Trabalhos teóricos
 
@@ -30,15 +49,6 @@ Listas e trabalhos escritos, em `trabalhos-teoricos/`, organizados por semestre:
 Os temas são os que a disciplina cobra: complexidade de algoritmos, somatórios,
 contagem de operações, estruturas lineares (listas, pilhas, filas), árvores binárias de
 busca e AVL, tabelas hash, e métodos de ordenação e de busca.
-
-## Outros trabalhos de AED II
-
-Dois trabalhos da disciplina que ficaram em repositórios próprios, por serem maiores:
-
-- [**aed-ii-airbnb**](https://github.com/Maicon-Gomes-Messias/aed-ii-airbnb) — leitura de
-  11 MB de dados do Airbnb e comparação de algoritmos de ordenação
-- [**aed-ii-exercicios-c**](https://github.com/Maicon-Gomes-Messias/aed-ii-exercicios-c) —
-  exercícios em C: palíndromo e cifra de César
 
 ## Contexto
 

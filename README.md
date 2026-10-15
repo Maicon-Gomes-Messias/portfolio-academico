@@ -34,7 +34,7 @@ PDFs de professores) e dos dados pessoais (notas e feedback no Canvas).
 | [`inteligencia-artificial`](inteligencia-artificial) | Inteligência Artificial (2023/2) | Python, Jupyter | **Algoritmo genético** implementado do zero |
 | [`processamento-imagens`](processamento-imagens) | Processamento e Análise de Imagens (2024/2) | Python | Rotinas de processamento digital de imagens |
 | [`sistemas-dinamicos-matlab`](sistemas-dinamicos-matlab) | Sistemas Dinâmicos e Controle (2024) | MATLAB | Scripts de modelagem e análise de sistemas de controle |
-| [`aed-ii`](aed-ii) | Algoritmos e Estruturas de Dados II (2020/2 e 2021/1) | Java | Práticas em Java e trabalhos teóricos da disciplina |
+| [`aed-ii`](aed-ii) | Algoritmos e Estruturas de Dados II (2020/2 e 2021/1) | Java, C | Práticas em Java, ordenação sobre 11 MB de dados do Airbnb, exercícios em C e trabalhos teóricos |
 
 ## Sobre cada projeto
 
@@ -115,16 +115,11 @@ Scripts em MATLAB de modelagem e análise de sistemas dinâmicos e controle.
 ### aed-ii
 
 Práticas em **Java** feitas em Algoritmos e Estruturas de Dados II: exercícios de
-introdução à linguagem e manipulação de vetores e matrizes. Junto vão os **trabalhos
-teóricos** da disciplina nos semestres 2020/2 e 2021/1 — recursividade, somatórios,
-complexidade, estruturas lineares, árvores e tabelas hash.
-
-Dois trabalhos maiores da mesma disciplina ficaram em repositórios próprios, para não
-duplicar arquivos grandes:
-[aed-ii-airbnb](https://github.com/Maicon-Gomes-Messias/aed-ii-airbnb) (ordenação sobre
-11 MB de dados) e
-[aed-ii-exercicios-c](https://github.com/Maicon-Gomes-Messias/aed-ii-exercicios-c)
-(exercícios em C).
+introdução à linguagem e manipulação de vetores e matrizes. A pasta também reúne o
+trabalho de **ordenação sobre 11 MB de dados do Airbnb**, os **exercícios em C**
+(palíndromo e cifra de César) e os **trabalhos teóricos** da disciplina nos semestres
+2020/2 e 2021/1 — recursividade, somatórios, complexidade, estruturas lineares, árvores e
+tabelas hash.
 
 ## Créditos
 
